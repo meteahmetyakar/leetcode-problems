@@ -1,4 +1,5 @@
-int leftSum = 0, rightSum = 0, totalSum = 0;
+int pivotIndex(int* nums, int numsSize){
+    int leftSum = 0, rightSum = 0, totalSum = 0;
     
     for(int i=0; i<numsSize; i++)
         totalSum += nums[i];
@@ -16,3 +17,4 @@ int leftSum = 0, rightSum = 0, totalSum = 0;
     }
     
     return -1;   
+}
