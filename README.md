@@ -9,5 +9,6 @@
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[![](icons/github.png)](https://github.com/meteahmetyakar/leetcode-problems/blob/main/problems/5.Daily%20Temperatures/solution.cpp) |C++|stack, monotonic stack|O(n)|O(n)
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[![](icons/github.png)](https://github.com/meteahmetyakar/leetcode-problems/tree/main/problems/4.Counting%20Bits/solution.c) [![](icons/leetcode.png)](https://leetcode.com/problems/counting-bits/discuss/2286703/C-or-DP-or-Easy-understanding-and-with-explanation) |C|array, dynamic programming|O(n)|O(n)
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[![](icons/leetcode.png)](https://leetcode.com/problems/power-of-four/solutions/2866902/c-3-different-approaches-visual-explanation/) |C++|Bit Manipulation, Resursion, Logarithm| min of 3 approaches O(1) | min of 3 approaches O(1)
+|1812|[Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/description)|[![](icons/leetcode.png)](https://leetcode.com/problems/determine-color-of-a-chessboard-square/solutions/4015149/java-truth-table-o-1-best-explanation-2-approaches/)|Java|logic gates|O(1)|O(1)|
 
 
